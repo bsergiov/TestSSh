@@ -2,16 +2,12 @@
 //  AppDelegate.swift
 //  TestSSh
 //
-//  Created by BSergio on 10.11.2022.
+//  Created by BSergio on 10.11dsfasd.2022.
 //
 
 import UIKit
 
-
-
-
-
-
+    
 
 
 
